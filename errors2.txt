@@ -1,0 +1,81 @@
+errors:1
+d drive f drive
+
+error2:
+remote origin exists
+
+*****************************
+
+
+echo "# test1000" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/devopsbyrushi/test1000.git
+git push -u origin main
+                
+
+
+
+git remote add origin https://github.com/devopsbyrushi/456.git
+git push -u origin master
+
+
+
+https://github.com/devopsbyrushi/DempoProject.git
+
+***************
+
+white colour 
+file  text
+direc  folder
+
+
+wq
+
+git log
+git log --oneline
+
+
+1000
+
+Rushi@banglore.com
+
+
+check logs based on author:
+git log --author "Rushi@banglore.com"
+
+2010 -2000commints
+
+2015
+git log --since=yy-mm-dd
+
+git log --since=2015-01-01
+
+git log --until=2018-01-01
+
+
+in b/w time period
+
+git log --since=2015-01-01 --until=2020-09-01
+
+*********************
+
+touch rushi
+giyt add rushi
+git status
+git commit -m "all"
+git remote add origin url
+git push -u origin master
+
+*******************
+
+pwd 
+present working directory
+
+cd change directory
+
+
+
+
